@@ -1,0 +1,8 @@
+[init]
+    defaultBranch = main
+[core]
+    autocrlf = true
+[alias]
+    s = status --short --branch
+    l = log --oneline --graph --decorate --all
+    last = log -1 --stat

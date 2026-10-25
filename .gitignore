@@ -1,0 +1,14 @@
+# Temporales y datos locales
+*.log
+*.tmp
+*.bak
+*.backup
+*.backup-*
+.DS_Store
+Thumbs.db
+# Nunca guardar credenciales o historial local
+.env
+.env.*
+*.key
+*.pem
+*_history
